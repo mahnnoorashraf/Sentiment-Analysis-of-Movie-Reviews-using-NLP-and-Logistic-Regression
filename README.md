@@ -143,5 +143,5 @@ Here are a few ideas to improve or extend this project:
 
 For questions or collaborations, feel free to reach out:
 
-**Your Name** —mahnnoorashraf@gmail.com  
-GitHub: [mahnnoorashraf]
+**Email** : mahnnoorashraf@gmail.com  
+GitHub Username: [mahnnoorashraf]
